@@ -40,7 +40,7 @@
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwNkfXk5b3sW02QcWUbTgVg?label=YouTube%20Subscribers&style=social)  
 
 ### LinkedIn Followers  
-![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-1800+-blue?logo=linkedin)  
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-2400+-blue?logo=linkedin)  
 
 ### GitHub Stats  
 - 📝 **Lines of Code Written:**  
